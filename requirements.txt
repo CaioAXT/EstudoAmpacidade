@@ -3,7 +3,7 @@ pandas
 numpy
 dash
 dash_bootstrap_components
-plotly.express
+plotly
 funcoes
 duckdb
 multiprocessing
