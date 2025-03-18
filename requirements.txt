@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+dash
+dash_bootstrap_components
+plotly.express
+funcoes
+duckdb
+multiprocessing
+numba
+math
